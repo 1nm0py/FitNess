@@ -300,8 +300,14 @@ header {
     font-size: 14px;
     font-weight: 600;
 }
-.alllla{
+
+.alllla {
     display: flex;
     justify-content: space-between;
-    
+
+}
+
+.menu_part {
+    width: 285px;
+    height: 354px;
 }
