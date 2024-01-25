@@ -300,3 +300,8 @@ header {
     font-size: 14px;
     font-weight: 600;
 }
+.alllla{
+    display: flex;
+    justify-content: space-between;
+    
+}
