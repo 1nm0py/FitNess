@@ -344,3 +344,36 @@ h5 {
     width: 418px;
     height: 526px;
 }
+
+.fvv {
+    width: 160px;
+    height: 94px;
+    margin-right: 60px;
+    border-radius: 0px 28px;
+    border: 1px solid #B9B9B9;
+}
+.boyman{
+    margin-top: 75px;
+}
+.asd {
+    color: #484848;
+    text-align: center;
+    font-family: Audiowide;
+    font-size: 30px;
+    font-weight: 400;
+}
+
+.dsa {
+    color: #9E9E9E;
+    font-family: "Open Sans";
+    font-size: 14px;
+    font-weight: 400;
+}
+.all_part_work{
+    margin: auto;
+    text-align: center;
+}
+.hhh555{
+    display: flex;
+    margin-left: 230px;
+}
