@@ -1,6 +1,9 @@
 @import url('https://fonts.googleapis.com/css2?family=Audiowide&family=Open+Sans&display=swap');
 
-
+*{
+    margin: 0;
+    padding: 0
+}
 header {
     background: url(./img/muscular-sportsman-building-biceps-with-dumbbell\ 1.png);
     background-repeat: no-repeat;
@@ -13,7 +16,7 @@ header {
     /* margin-top: 20px; */
 }
 
-.col-2 {
+.tg {
     margin-top: 32px;
 }
 
@@ -28,7 +31,7 @@ header {
     font-family: "Open Sans";
 }
 
-.col-3 {
+.gt {
     display: flex;
     justify-content: space-evenly;
     align-items: center;
@@ -81,7 +84,7 @@ header {
 }
 
 .img_box {
-    margin-left: 145px;
+    /* margin-left: 145px; */
     position: relative;
     margin-top: 96px;
 }
@@ -107,8 +110,8 @@ header {
 }
 
 .h01 {
-    width: 541px;
-    height: 120px;
+    /* width: 541px; */
+    /* height: 120px; */
     margin-top: 30px;
 }
 
@@ -116,15 +119,15 @@ header {
     color: #484848;
     font-family: Audiowide;
     font-size: 45px;
-    font-style: normal;
+    /* font-style: normal; */
     font-weight: 400;
-    line-height: 55px;
+    /* line-height: 55px; */
     /* 122.222% */
 }
 
 .p01 {
-    width: 509px;
-    height: 50px;
+    /* width: 509px; */
+    /* height: 50px; */
     margin-top: 7px;
     margin-bottom: 24px;
 }
@@ -133,9 +136,9 @@ header {
     color: #9E9E9E;
     font-family: "Open Sans";
     font-size: 16px;
-    font-style: normal;
+    /* font-style: normal; */
     font-weight: 400;
-    line-height: 26px;
+    /* line-height: 26px; */
     /* 162.5% */
 }
 
@@ -147,9 +150,10 @@ header {
     color: #000;
     font-family: "Open Sans";
     font-size: 16px;
-    font-style: normal;
+    /* font-style: normal; */
     font-weight: 600;
-    line-height: 26px;
+    margin-bottom: 20px ;
+    /* line-height: 26px; */
     /* 162.5% */
 }
 
@@ -221,9 +225,7 @@ header {
 .btn_button {
     margin-top: 36px;
 }
-.all_part_menu{
-    /* text-align: center; */
-}
+
 .img_part {
     width: 245px;
     height: 354px;
@@ -240,4 +242,24 @@ header {
 }
 .img_part_1{
     width: 150px;
+}
+.all{
+    background: #F8F8F8;
+}
+.menu_img{
+    width: 100%;
+    height: 100%;
+    position: relative;
+}
+.menu01{
+    position: absolute;
+    bottom: 0;
+}
+.Naqsh{
+    position: relative;
+}
+.gantelchi02{
+    position: absolute;
+    left: 170px;
+    bottom: 110px;
 }
