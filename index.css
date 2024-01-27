@@ -352,9 +352,11 @@ h5 {
     border-radius: 0px 28px;
     border: 1px solid #B9B9B9;
 }
-.boyman{
+
+.boyman {
     margin-top: 75px;
 }
+
 .asd {
     color: #484848;
     text-align: center;
@@ -369,11 +371,66 @@ h5 {
     font-size: 14px;
     font-weight: 400;
 }
-.all_part_work{
+
+.all_part_work {
     margin: auto;
     text-align: center;
 }
-.hhh555{
+
+.hhh555 {
     display: flex;
     margin-left: 275px;
+}
+
+.buy_img {
+    width: 350px;
+    height: 342px;
+    background: #E9E9E9;
+    position: relative;
+}
+
+.buyP {
+    top: 300px;
+    right: 200px;
+    position: absolute;
+    color: #504c4c;
+    font-family: "Open Sans";
+    font-size: 16px;
+    font-weight: 400;
+}
+
+.buy_logo {
+    position: absolute;
+    top: -7px;
+}
+
+.ball {
+    padding: 80px 76px 60px 76px;
+}
+
+.NarX {
+    display: flex;
+    justify-content: space-between;
+    width: 350px;
+}
+
+.buyh2 {
+    color: #AE0F0F;
+    font-family: "Open Sans";
+    font-size: 25px;
+    font-weight: 600;
+}
+
+.buybtn {
+    width: 350px;
+    height: 48px;
+    border: none;
+    background: #AE0F0F;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 5px;
+}
+.buybtn_p{
+    margin-top: 13px;
 }
