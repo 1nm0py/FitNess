@@ -155,6 +155,7 @@ header {
     /* margin-bottom: 20px; */
     /* line-height: 26px; */
     /* 162.5% */
+    margin-bottom: 20px;
 }
 
 .logo1 {
@@ -168,13 +169,13 @@ header {
 }
 
 .logop5 {
-    margin-top: 10px;
+    /* margin-top: 10px; */
     color: #9E9E9E;
     font-family: "Open Sans";
     font-size: 14px;
-    font-style: normal;
+    /* font-style: normal; */
     font-weight: 400;
-    line-height: 24px;
+    /* line-height: 24px; */
     /* 171.429% */
 }
 
@@ -222,8 +223,8 @@ h5 {
     border: none;
 }
 
-section{
-margin-top: 70px;
+section {
+    margin-top: 70px;
     background: rgba(151, 147, 147, 0.2);
 }
 
@@ -325,7 +326,8 @@ margin-top: 70px;
 
 .all_logo {
     display: flex;
-    justify-content: space-between;
+    /* justify-content: space-between; */
+    gap: 20px;
 }
 
 .logo011 {
@@ -334,7 +336,6 @@ margin-top: 70px;
 }
 
 .logo_logo-1 {
-    margin-top: 10px;
     margin-left: 5px;
 }
 
@@ -417,6 +418,8 @@ margin-top: 70px;
     font-family: "Open Sans";
     font-size: 25px;
     font-weight: 600;
+    margin-top: 10px;
+
 }
 
 .buybtn {
@@ -429,6 +432,24 @@ margin-top: 70px;
     align-items: center;
     gap: 5px;
 }
-.buybtn_p{
+
+.buybtn_p {
     margin-top: 13px;
+    color: #FFF;
+    text-align: center;
+    font-family: "Open Sans";
+    font-size: 14px;
+    font-weight: 600;
+}
+
+.stars {
+    margin-top: 13px;
+}
+
+.buy2h2 {
+    color: #242323;
+    font-family: "Open Sans";
+    font-size: 25px;
+    font-weight: 600;
+    margin-top: 10px;
 }
