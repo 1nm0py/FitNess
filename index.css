@@ -380,7 +380,8 @@ section {
     display: flex;
     margin-left: 275px;
 }
-.alyaka_text{
+
+.alyaka_text {
     top: 3px;
     width: 100%;
     font-size: 14px;
@@ -388,6 +389,7 @@ section {
     position: absolute;
     color: #FFF;
 }
+
 .buy_img {
     width: 100%;
     height: 342px;
@@ -404,13 +406,15 @@ section {
     font-size: 16px;
     font-weight: 500;
 }
-.buy_img_03{
+
+.buy_img_03 {
     width: 100%;
     height: 100%;
     display: flex;
     justify-content: center;
     align-items: center;
 }
+
 .keta {
     padding: 70px 52px 55px 52px;
 }
@@ -524,12 +528,14 @@ section {
     display: flex;
     justify-content: space-between;
 }
+
 .class001 {
     background: url(./img/bg_man.png);
     background-repeat: no-repeat;
     background-size: cover;
     margin-bottom: 70px;
 }
+
 /* .class002{
     background: url(./img/bg_black.png);
     background-repeat: no-repeat;
@@ -553,9 +559,53 @@ section {
     font-size: 30px;
     font-weight: 400;
 }
-span{
+
+span {
     color: #AE0F0F;
 }
-.men_taxt{
+
+.men_taxt {
     text-align: center;
+}
+
+.finishP {
+    margin-top: 15px;
+    color: #9E9E9E;
+    font-family: "Open Sans";
+    font-size: 16px;
+    font-weight: 400;
+    margin-bottom: 25px;
+}
+.all_logo{
+    gap: 20px;
+}
+.facebook{
+    border: 1px solid #C0C0C0;
+    border-radius: 10px;
+    width: 46px;
+    height: 46px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.inst{
+    border: 1px solid #C0C0C0;
+    border-radius: 10px;
+    width: 46px;
+    height: 46px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.twich{
+    border: 1px solid #C0C0C0;
+    border-radius: 10px;
+    width: 46px;
+    height: 46px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.finishUL{
+    list-style: none;
 }
