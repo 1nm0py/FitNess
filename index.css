@@ -576,10 +576,19 @@ span {
     font-weight: 400;
     margin-bottom: 25px;
 }
-.all_logo{
+
+.FinishLI {
+    color: #9E9E9E;
+    font-family: "Open Sans";
+    font-size: 16px;
+    font-weight: 400;
+}
+
+.all_logo {
     gap: 20px;
 }
-.facebook{
+
+.facebook {
     border: 1px solid #C0C0C0;
     border-radius: 10px;
     width: 46px;
@@ -588,7 +597,8 @@ span {
     justify-content: center;
     align-items: center;
 }
-.inst{
+
+.inst {
     border: 1px solid #C0C0C0;
     border-radius: 10px;
     width: 46px;
@@ -597,7 +607,8 @@ span {
     justify-content: center;
     align-items: center;
 }
-.twich{
+
+.twich {
     border: 1px solid #C0C0C0;
     border-radius: 10px;
     width: 46px;
@@ -606,6 +617,48 @@ span {
     justify-content: center;
     align-items: center;
 }
-.finishUL{
+
+.finishUL {
     list-style: none;
+    /* text-align: center; */
+    width: 200px;
+}
+
+.number {
+    color: rgb(240, 5, 5);
+}
+
+.finishp {
+    font-family: "Open Sans";
+    font-size: 16px;
+    font-weight: 600;
+    text-align: left;
+    color: #1a1919;
+    margin-bottom: 14px;
+}
+
+.FinishP {
+    font-family: "Open Sans";
+    font-size: 18px;
+    font-weight: 400;
+    text-align: left;
+    color: #9E9E9E;
+}
+
+.Finaly {
+    margin-top: -15px;
+}
+
+.thats_all{
+    background: #000;
+    margin-top: 50px;
+    height: 50px;
+}
+.ppp {
+    color: #FFF;
+    font-family: "Open Sans";
+    font-size: 14px;
+    font-weight: 400;
+    padding-top: 20px;
+    text-align: center;
 }
